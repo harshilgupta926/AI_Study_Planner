@@ -1,4 +1,3 @@
-
 ```Markdown
 # AI Study Planner 📚🤖
 
@@ -122,12 +121,3 @@ The application will open in your browser.
 ## 👨‍💻 Author
 
 **Harshil Gupta**
-
-
-
-Give this repository a star ⭐ and feel free to contribute!
-
-```
-
-You can directly paste this as `README.md` in GitHub.
-```
