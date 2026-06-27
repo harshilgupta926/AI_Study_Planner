@@ -1,4 +1,3 @@
-```Markdown
 # AI Study Planner 📚🤖
 
 An AI-powered study planning assistant built using **Python, Streamlit, and Groq API**. This application helps students organize their study schedule, track subject-wise progress, analyze study hours using visual charts, and interact with an AI assistant for personalized guidance.
@@ -29,13 +28,11 @@ An AI-powered study planning assistant built using **Python, Streamlit, and Groq
 
 ## 🛠️ Technologies Used
 
-- **Python**
-- **Streamlit**
-- **Groq API**
-- **Pandas**
-- **Matplotlib / Plotly**
-- **AI & Machine Learning Concepts**
-
+- **Python** - Core programming language
+- **Streamlit** - Web application framework
+- **Groq API** - AI study coach integration
+- **LLaMA 3.3 70B Model** - AI response generation
+- **Plotly** - Interactive charts and data visualization
 ---
 
 ## 📂 Project Structure
@@ -47,10 +44,6 @@ AI-Study-Planner/
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Required Python libraries
 ├── README.md           # Project documentation
-│
-└── assets/             # Images or additional files
-
-````
 
 ---
 
